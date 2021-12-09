@@ -1,2 +1,2 @@
 print( '( _ )' )
-print( ') (' )
+print( ' ) (' )
